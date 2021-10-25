@@ -7,11 +7,11 @@
 #
 ####################################################
 
-title: tfolio- Responsive Blogging Ghost Template
-email: your-email@example.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Tertuliano's Portfolio
+email: leonlemos26@gmail.com
+description: " Tertuliano's Data Science Portfolio"
 keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leonlemos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
