@@ -4,13 +4,14 @@
         <div class="container-fluid">
             <div class="skills-wrapper text-center">
                 <div class="section-title">
-                    <h2>MY TECHNICAL SKILL</h2>
+                    <h2>MY TECHNICAL SKILLS</h2>
                     <div class="border-center"></div>
                 </div>
                 <div class="row">
                     {% for skills_data in site.data.skills  %}
                     <div class="col-lg-4 col-md-6">
                         <div class="skills-box wow fadeIn text-center">
+                         <a href="#"><div class="skills-box-logo"><img src="{{skills_data.icon | relative_url}}" alt="skills logo"/></div></a>
                             <h5>{{skills_data.title}}</h5>
                             <p>{{skills_data.desc}}</p>
                             <div class="progressbar-main">

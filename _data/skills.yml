@@ -1,23 +1,23 @@
-- title: Adobe Photoshop
+- title: Programming Languages
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+  icon: assets/images/services-icon-brush.png
 
-- title: Web Design
+- title: Libraries
   desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
+  icon: assets/images/services-icon-java.png
 
-- title: Back-End Development
+- title: Data Visualization
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 90%
+  icon: assets/images/services-icon-coding.png
 
-- title: Javascript
+- title: Dataset Management
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 55%
+  icon: assets/images/services-icon-layer.png
 
-- title: HTML5 And CSS3
+- title: Machine Learning Models
   desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 88% 
+  icon: assets/images/services-icon-mouse.png
 
-- title: Adobe Illustrator
+- title: Web Scraping
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+  icon: assets/images/services-icon-pen.png
