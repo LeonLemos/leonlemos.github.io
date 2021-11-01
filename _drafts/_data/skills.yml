@@ -1,0 +1,23 @@
+- title: Programming Languages
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 75%
+
+- title: Libraries
+  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 68% 
+
+- title: Data Visualization
+  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 90%
+
+- title: Dataset Management
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 55%
+
+- title: Machine Learning Models
+  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 88% 
+
+- title: Web Scraping
+  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 20%
