@@ -1,23 +1,23 @@
 - title: Programming Languages
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  icon: assets/images/services-icon-brush.png
-
-- title: Libraries
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  icon: assets/images/services-icon-java.png
-
-- title: Data Visualization
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  desc: Confident with Python, Jupyter-Notebook, and comfortable with HTML and CSS.
   icon: assets/images/services-icon-coding.png
 
-- title: Dataset Management
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+- title: Libraries
+  desc: Pandas, NumPy, SciPy, Scikit-learn, StatsModels, Nltk, Networkx .
   icon: assets/images/services-icon-layer.png
 
-- title: Machine Learning Models
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  icon: assets/images/services-icon-mouse.png
+- title: Data Visualization
+  desc: Using Seaborn, Matplotlib libraries and Tableau visualization software.
+  icon: assets/images/services-icon-datavisualization.png
+
+- title: Big Data and Relational Databases
+  desc: Apache Spark, PySpark library and SQL language queries with PostGreSQL.
+  icon: assets/images/services-icon-database.png
+
+- title: Machine Learning Models And Deep Learning
+  desc: Supervised, Unsupervised and Reinforcement Learning. Timeseries ARIMA, SARIMAX. Deep learning with TensorFlow-Keras.
+  icon: assets/images/services-icon-machine.png
 
 - title: Web Scraping
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  icon: assets/images/services-icon-pen.png
+  desc: Using Requests, Beautifulsoup and Selenium libraries.
+  icon: assets/images/services-icon-www.png

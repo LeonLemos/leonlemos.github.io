@@ -10,19 +10,16 @@
 title: Tertuliano's Portfolio
 email: leonlemos26@gmail.com
 description: " Tertuliano's Data Science Portfolio"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+keywords: "Data, Data Science, Machine Learning, Artificial Intelligence, Deep Learning, seo friendly blog, super fast blog, responsive"
 url: "https://leonlemos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Leon_theLemos
+github_username:  LeonLemos
 
-facebook_url: 'http://facebook.com/themeix'
-twitter_url: 'http://twitter.com/themeix_ltd'
-github_url: 'http://github.com/themeix'
-youtube_url: 'http://youtube.com/themeix'
-google_plus_url: 'http://plus.google.com'
-pinterest_url: 'http://pinterest.com'
-
+facebook_url: 'https://www.facebook.com/leon.lemos.5'
+twitter_url: 'http://twitter.com/Leon_theLemos'
+github_url: 'http://github.com/LeonLemos'
+ 
 # Build settings
 markdown: kramdown
 theme: minima
